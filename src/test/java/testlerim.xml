@@ -1,0 +1,16 @@
+<suite name="MY SUITE">
+    <tests name="My Tests">
+        <test name ="Test1">
+            <classes>
+                <class name ="automationexercises.tests.TestCase06"/>
+                <class name ="automationexercises.tests.TestCase05"/>
+            </classes>
+            <test name ="Test2">
+                <classes>
+                    <class name="TestlerOmerOzdemir"/>
+                </classes>
+            </test>
+        </test>
+    </tests>
+</suite>
+
