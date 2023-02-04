@@ -56,6 +56,7 @@ public class TestCase01 {
         homePage.deleteAccount.click();
         //. Verify that 'ACCOUNT DELETED!' is visible and click 'Continue' button
         Assert.assertTrue(accountCreatedOrDeleted.accountDeletedMsg.isDisplayed());
+        System.out.println("akdjffgit ");
         accountCreatedOrDeleted.continueButton.click();
     }
     public void createAccount(){
